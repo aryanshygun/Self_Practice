@@ -1,5 +1,4 @@
 
-game.py
 print("Hello there! this is my first game ever!\nplease enjoy! lol")
 name = input("please enter ur name:\n")
 age = int(input("hello " + name + " ! now enter your age:\n"))
