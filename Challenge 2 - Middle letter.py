@@ -1,3 +1,4 @@
+# https://pythonprinciples.com/challenges/Middle-letter/
 
 def mid(x):
     middle = []

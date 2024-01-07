@@ -1,5 +1,4 @@
-
-
+# https://pythonprinciples.com/challenges/Capital-indexes/
 
 def capital_indexes(str):
     chars=[]

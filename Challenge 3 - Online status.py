@@ -1,3 +1,5 @@
+# https://pythonprinciples.com/challenges/Online-status/
+
 statuses = {
     "Alice": "online",
     "Bob": "offline",
