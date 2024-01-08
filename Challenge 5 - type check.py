@@ -1,4 +1,5 @@
 # https://pythonprinciples.com/challenges/Type-check/
+
 def only_ints(x,y):
     if type(x) is int and type(y) is int:
         answer = True
